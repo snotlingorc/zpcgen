@@ -39,9 +39,89 @@
 </Academic>
 
 <Commoner>
-   <Trappings>Leather Shoes</Trappings>
+   <Trappings>Simple Attire</Trappings>
+   <Trappings>Warm Vest</Trappings>
+   <Trappings>Bandages</Trappings>
+   <Trappings>Bandages</Trappings>
+   <Trappings>Bandages</Trappings>
+   <Trappings>Ruck Sack</Trappings>
+   <Trappings>Graveroot</Trappings>
+   <Trappings>Heavy Boots</Trappings>
+   <Trappings>Holy Symbol</Trappings>
+   <Trappings>Shiv</Trappings>
+   <Trappings>Shepherd's Sling/Splitting Maul/Threshing Flail</Trappings>
 
-   <Profession name="15" value="Anarchist" />
+   <Profession name="8" value="Artisan" />
+   <Profession name="16" value="Barber Surgeon" />
+   <Profession name="25" value="Boartman" />
+   <Profession name="33" value="Camp Follower" />
+   <Profession name="41" value="Cheapjack" />
+   <Profession name="49" value="Coachmaster" />
+   <Profession name="58" value="Jailer" />
+   <Profession name="67" value="Laborer" />
+   <Profession name="76" value="Peasant" />
+   <Profession name="85" value="Penitent" />
+   <Profession name="92" value="Rat Catcher" />
+   <Profession name="100" value="Servant" />
 </Commoner>
+
+<Knave>
+   <Trapppings>Second-hand Attire/Dark Clothing/Tattered Rags/Garish Attire</Trapppings>
+   <Trapppings>Soft Shoes</Trapppings>
+   <Trapppings>Holy Symbol</Trapppings>
+   <Trapppings>Gaff Bag</Trapppings>
+   <Trapppings>Lock Picks</Trapppings>
+   <Trapppings>Folkbane</Trapppings>
+   <Trapppings>Antivenom</Trapppings>
+   <Trapppings>Mantle</Trapppings>
+   <Trapppings>Stiletto</Trapppings>
+   <Trapppings>Blakjack/Garrote/Flintlock Pistol</Trapppings>
+
+   <Profession name="8" value="Beggar" />
+   <Profession name="16" value="Burglar" />
+   <Profession name="25" value="Charlatan" />
+   <Profession name="33" value="Footpad" />
+   <Profession name="41" value="Gambler" />
+   <Profession name="49" value="Graverobber" />
+   <Profession name="58" value="Guttersnipe" />
+   <Profession name="67" value="Highwayman" />
+   <Profession name="76" value="Prostitute" />
+   <Profession name="85" value="Smuggler" />
+   <Profession name="92" value="Vagabond" />
+   <Profession name="100" value="vigilante" />
+</Knave>
+
+   <Ranger>
+      <Trapppings>Sturdy Traveling Cloths</Trapppings>
+      <Trapppings>Fur Armor/Hide Armor</Trapppings>
+      <Trapppings>Wilderness Cloak</Trapppings>
+      <Trapppings>Heavy Boots</Trapppings>
+      <Trapppings>Bullwhip</Trapppings>
+      <Trapppings>Antivenom</Trapppings>
+      <Trapppings>Wolfsbane</Trapppings>
+      <Trapppings>Backpack</Trapppings>
+      <Trapppings>Bedroll</Trapppings>
+      <Trapppings>Animalbane</Trapppings>
+      <Trapppings>Water Skin</Trapppings>
+      <Trapppings>Torch</Trapppings>
+      <Trapppings>Torch</Trapppings>
+      <Trapppings>Torch</Trapppings>
+      <Trapppings>Holy Symbol</Trapppings>
+      <Trapppings>Survival Kit</Trapppings>
+      <Trapppings>Fire-Hardened Spear/Hunting Bow/Woodsman's Axe</Trapppings>
+
+      <Profession name="8" value="Animal Tamer" />
+      <Profession name="16" value="Bailiff" />
+      <Profession name="25" value="Bonepicker" />
+      <Profession name="33" value="Bounty Hunter" />
+      <Profession name="41" value="Gamekeeper" />
+      <Profession name="49" value="Hedgewise" />
+      <Profession name="58" value="Old Believer" />
+      <Profession name="67" value="Outrider" />
+      <Profession name="76" value="Pilgrim" />
+      <Profession name="85" value="Reeve" />
+      <Profession name="92" value="Slayer" />
+      <Profession name="100" value="Trapper" />
+   </Ranger>
 
 </Archtypes>
