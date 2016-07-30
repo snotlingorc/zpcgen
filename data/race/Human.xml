@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+
+<race>
+    <Description>Human</Description>
+
+    <Modifiers name="Combat Bonus" value="1" />
+    <Modifiers name="Intelligence Bonus" value="1" />
+    <Modifiers name="Perception Bonus" value="1" />
+    <Modifiers name="Agility Bonus" value="-1" />
+    <Modifiers name="Fellowship Bonus" value="-1" />
+    <Modifiers name="Willpower Bonus" value="-1" />
+
+    <Traits name="8" value="Blessing In Disguise" />
+    <Traits name="16" value="Danger Sense" />
+    <Traits name="25" value="Dauntless" />
+    <Traits name="33" value="Esoteric Memory" />
+    <Traits name="41" value="Fortune's Wheel" />
+    <Traits name="49" value="Grim Resolve" />
+    <Traits name="58" value="Manifest Destiny" />
+    <Traits name="67" value="Mixed Bloodline" />
+    <Traits name="76" value="Mountain Amongst Men" />
+    <Traits name="85" value="Natural Selection" />
+    <Traits name="92" value="Noble Savage" />
+    <Traits name="100" value="Seventh Sense" />
+
+</race>
+

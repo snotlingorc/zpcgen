@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<Profession>
+    <Name>Anarchist</Name>
+
+    <Description>Basic description here</Description>
+
+    <Professional-Trait>Rabble-Rousing</Professional-Trait>
+
+    <Skill-Ranks name="Eavesdrop" type="Perception" />
+    <Skill-Ranks name="Folklore" type="Intelligence" />
+    <Skill-Ranks name="Guile" type="Fellowship" />
+    <Skill-Ranks name="Interrogation" type="Willpower" />
+    <Skill-Ranks name="Intimidate" type="Brawn" />
+    <Skill-Ranks name="Leadership" type="Fellowship" />
+    <Skill-Ranks name="Resolve" type="Willpower" />
+    <Skill-Ranks name="Rumor" type="Fellowship" />
+    <Skill-Ranks name="Scrutinize" type="Perception" />
+    <Skill-Ranks name="Simple Ranged" type="Combat" />
+
+
+    <Bonus-Advances name="Brawn" value="+1" />
+    <Bonus-Advances name="Fellowship" value="+1" />
+    <Bonus-Advances name="Fellowship" value="+1" />
+    <Bonus-Advances name="Perception" value="+1" />
+    <Bonus-Advances name="Perception" value="+1" />
+    <Bonus-Advances name="Willpower" value="+1" />
+    <Bonus-Advances name="Willpower" value="+1" />
+
+    <Talents>Forked Tongue</Talents>
+    <Talents>Impervious Mind</Talents>
+    <Talents>Long-Winded</Talents>
+
+</Profession>

@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<Archtypes>
+
+<Archtype name="15" value="Academic" />
+<Archtype name="32" value="Commoner" />
+<Archtype name="49" value="Knave" />
+<Archtype name="66" value="Ranger" />
+<Archtype name="83" value="Socialite" />
+<Archtype name="100" value="Warrior" />
+
+<Academic>
+   <Trappings>Fine Clothing</Trappings>
+   <Trappings>Coin Purse</Trappings>
+   <Trappings>Loose Robes</Trappings>
+   <Trappings>Leather Sandals/Soft Shoes</Trappings>
+   <Trappings>Holy Symbol</Trappings>
+   <Trappings>Writing Kit</Trappings>
+   <Trappings>Shoulder Bag</Trappings>
+   <Trappings>Smelling Salts</Trappings>
+   <Trappings>Smelling Salts</Trappings>
+   <Trappings>Smelling Salts</Trappings>
+   <Trappings>Bottle of Leeches</Trappings>
+   <Trappings>Black Lotus</Trappings>
+   <Trappings>Dirk</Trappings>
+   <Trappings>Cudgel/Staff/Throwing Knives</Trappings>
+
+   <Profession name="8" value="Adherent" />
+   <Profession name="16" value="Anchorite" />
+   <Profession name="25" value="Antiquarian" />
+   <Profession name="33" value="Apothecary" />
+   <Profession name="41" value="Astrologer" />
+   <Profession name="49" value="Diabolist" />
+   <Profession name="58" value="Engineer" />
+   <Profession name="67" value="Informer" />
+   <Profession name="76" value="Investigator" />
+   <Profession name="85" value="Monk" />
+   <Profession name="92" value="Preacher" />
+   <Profession name="100" value="Scribe" />
+</Academic>
+
+<Commoner>
+   <Trappings>Leather Shoes</Trappings>
+
+   <Profession name="15" value="Anarchist" />
+</Commoner>
+
+</Archtypes>
