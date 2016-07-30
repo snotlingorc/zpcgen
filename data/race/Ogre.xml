@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+
+<race>
+    <Description>Ogre</Description>
+
+    <Modifiers name="Brawn Bonus" value="2" />
+    <Modifiers name="Combat Bonus" value="1" />
+    <Modifiers name="Agility Bonus" value="-1" />
+    <Modifiers name="Fellowship Bonus" value="-1" />
+    <Modifiers name="intelligence Bonus" value="-1" />
+
+    <Traits name="8" value="Broad-bellied" />
+    <Traits name="16" value="Cast Iron Stomach" />
+    <Traits name="25" value="Crusin' For A Bruisin'" />
+    <Traits name="33" value="Frightening Bellow" />
+    <Traits name="41" value="Gut-Plate" />
+    <Traits name="49" value="Hunger Pangs" />
+    <Traits name="58" value="Mighty Thews" />
+    <Traits name="67" value="Odd Couple" />
+    <Traits name="76" value="Rotgut Spray" />
+    <Traits name="85" value="Slamdance" />
+    <Traits name="92" value="Thick Lining" />
+    <Traits name="100" value="Wendigo" />
+
+</race>
+

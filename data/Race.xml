@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<Races>
+<Race name="20" value="Dwarf" />
+<Race name="40" value="Elf" />
+<Race name="60" value="Gnome" />
+<Race name="80" value="Halfling" />
+<Race name="100" value="Ogre" />
+</Races>
