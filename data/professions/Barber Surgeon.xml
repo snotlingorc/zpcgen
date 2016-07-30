@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<Profession>
+    <name>Barber Surgeon</Name>
+
+    <Description>Basic description here</Description>
+
+    <Professional-Trait>Pliers...Scalpel...Scissors...Bonesaw</Professional-Trait>
+
+    <Skill-Ranks name="Awareness" type="Perception" />
+    <Skill-Ranks name="Bargain" type="Fellowship" />
+    <Skill-Ranks name="Coordination" type="Agility" />
+    <Skill-Ranks name="Education" type="Intelligence" />
+    <Skill-Ranks name="Folklore" type="Intelligence" />
+    <Skill-Ranks name="Handle Animal" type="Fellowship" />
+    <Skill-Ranks name="Heal" type="Intelligence" />
+    <Skill-Ranks name="Rumor" type="Fellowship" />
+    <Skill-Ranks name="Scrutinize" type="Perception" />
+    <Skill-Ranks name="Simple Melee" type="Combat" />
+
+
+    <Bonus-Advances name="Agility" value="+1" />
+    <Bonus-Advances name="Fellowship" value="+1" />
+    <Bonus-Advances name="Fellowship" value="+1" />
+    <Bonus-Advances name="Intelligence" value="+1" />
+    <Bonus-Advances name="Intelligence" value="+1" />
+    <Bonus-Advances name="Perception" value="+1" />
+    <Bonus-Advances name="Perception" value="+1" />
+
+    <Talents>Determination</Talents>
+    <Talents>Indifference</Talents>
+    <Talents>Knifework</Talents>
+
+</Profession>

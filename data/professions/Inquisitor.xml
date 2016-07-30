@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<Profession>
+    <Name>Inquistor</Name>
+
+    <Description>Basic description here</Description>
+
+    <Professional-Trait>Witch Hunter's Insight</Professional-Trait>
+    <Drawback>Religious Zealotry</Drawback>
+
+    <Skill-Ranks name="Folklore" type="Intelligence" />
+    <Skill-Ranks name="Interrogation" type="Willpower" />
+    <Skill-Ranks name="Intimidate" type="Brawn" />
+    <Skill-Ranks name="Martial Melee" type="Combat" />
+    <Skill-Ranks name="Martial Ranged" type="Combat" />
+    <Skill-Ranks name="Resolve" type="Willpower" />
+    <Skill-Ranks name="Ride" type="Agility" />
+    <Skill-Ranks name="Scrutinize" type="Perception" />
+    <Skill-Ranks name="Simple Melee" type="Combat" />
+    <Skill-Ranks name="Simple Ranged" type="Combat" />
+
+
+    <Bonus-Advances name="Agility" value="+1" />
+    <Bonus-Advances name="Combat" value="+1" />
+    <Bonus-Advances name="Combat" value="+1" />
+    <Bonus-Advances name="Intelligence" value="+1" />
+    <Bonus-Advances name="Perception" value="+1" />
+    <Bonus-Advances name="Willpower" value="+1" />
+    <Bonus-Advances name="Willpower" value="+1" />
+
+    <Talents>Menacing Demeanor</Talents>
+    <Talents>No Mercy</Talents>
+    <Talents>Supernatural Paranoia</Talents>
+
+</Profession>

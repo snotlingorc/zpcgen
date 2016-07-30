@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<Profession>
+    <Name>Slayer</Name>
+
+    <Description>Basic description here</Description>
+
+    <Professional-Trait>The Slayer's Path</Professional-Trait>
+    <Drawback>Death Wish</Drawback>
+
+    <Skill-Ranks name="Athletics" type="Brawn" />
+    <Skill-Ranks name="Coordination" type="Agility" />
+    <Skill-Ranks name="Folklore" type="Intelligence" />
+    <Skill-Ranks name="Intimidate" type="Brawn" />
+    <Skill-Ranks name="Martial Melee" type="Combat" />
+    <Skill-Ranks name="Resolve" type="Willpower" />
+    <Skill-Ranks name="Rumor" type="Fellowship" />
+    <Skill-Ranks name="Simple Melee" type="Combat" />
+    <Skill-Ranks name="Survival" type="Perception" />
+    <Skill-Ranks name="Toughness" type="Brawn" />
+
+
+    <Bonus-Advances name="Brawn" value="+1" />
+    <Bonus-Advances name="Brawn" value="+1" />
+    <Bonus-Advances name="Combat" value="+1" />
+    <Bonus-Advances name="Combat" value="+1" />
+    <Bonus-Advances name="Perception" value="+1" />
+    <Bonus-Advances name="Willpower" value="+1" />
+    <Bonus-Advances name="Willpower" value="+1" />
+
+    <Talents>Ambidexterity</Talents>
+    <Talents>Bad Axx!!</Talents>
+    <Talents>Die Hard</Talents>
+
+</Profession>

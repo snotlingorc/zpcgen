@@ -124,4 +124,65 @@
       <Profession name="100" value="Trapper" />
    </Ranger>
 
+   <Socialite>
+      <Trapppings>Fashionable Clothing</Trapppings>
+      <Trapppings>Fancy Shoes</Trapppings>
+      <Trapppings>Foppish Hat</Trapppings>
+      <Trapppings>Mantle</Trapppings>
+      <Trapppings>Writting Kit</Trapppings>
+      <Trapppings>Coin Purse</Trapppings>
+      <Trapppings>Holy Symbol</Trapppings>
+      <Trapppings>Knuckleduster</Trapppings>
+      <Trapppings>Mandrake Root</Trapppings>
+      <Trapppings>Laudanum</Trapppings>
+      <Trapppings>Laudanum</Trapppings>
+      <Trapppings>Laudanum</Trapppings>
+      <Trapppings>Shoulder Bag</Trapppings>
+      <Trapppings>Walking Cane</Trapppings>
+      <Trapppings>Rapier/Throwing Knives</Trapppings>
+
+      <Profession name="8" value="Anarchist" />
+      <Profession name="16" value="Courtier" />
+      <Profession name="25" value="Cultist" />
+      <Profession name="33" value="Entertainer" />
+      <Profession name="41" value="Envoy" />
+      <Profession name="49" value="Fop" />
+      <Profession name="58" value="Jester" />
+      <Profession name="67" value="Provocateur" />
+      <Profession name="76" value="Racketeer" />
+      <Profession name="85" value="Raconteur" />
+      <Profession name="92" value="Rake" />
+      <Profession name="100" value="Valet" />
+   </Socialite>
+
+   <Warrior>
+      <Trapppings>Military Attire</Trapppings>
+      <Trapppings>Leather Armor</Trapppings>
+      <Trapppings>Heavy Boots</Trapppings>
+      <Trapppings>Wilderness Cloak</Trapppings>
+      <Trapppings>Flask</Trapppings>
+      <Trapppings>Lantern</Trapppings>
+      <Trapppings>Oil Pot</Trapppings>
+      <Trapppings>Fire-hardened Spear</Trapppings>
+      <Trapppings>Quicksilver</Trapppings>
+      <Trapppings>Tincture</Trapppings>
+      <Trapppings>Red Cap Mushrooms</Trapppings>
+      <Trapppings>Wooden Shield</Trapppings>
+      <Trapppings>Rucksack</Trapppings>
+      <Trapppings>Arbalest/Crossbow/Mortuary Sword/Pike</Trapppings>
+
+      <Profession name="8" value="Berserker" />
+      <Profession name="16" value="Bravo" />
+      <Profession name="25" value="Buccaneer" />
+      <Profession name="33" value="Dragoon" />
+      <Profession name="41" value="Hedge Knight" />
+      <Profession name="49" value="Man-At-Arms" />
+      <Profession name="58" value="Militiaman" />
+      <Profession name="67" value="Pit Fighter" />
+      <Profession name="76" value="Pugilist" />
+      <Profession name="85" value="Spellsword" />
+      <Profession name="92" value="Squire" />
+      <Profession name="100" value="Watchman" />
+   </Warrior>
+
 </Archtypes>
