@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<temperments>
+<temperment value="4" order="Adaptation" chaos="Incompetence" />
+<temperment value="8" order="Ambition" chaos="Tyranny" />
+<temperment value="12" order="Candor" chaos="Hatred" />
+<temperment value="16" order="Charity" chaos="Scorn" />
+<temperment value="20" order="Compassion" chaos="Martyrdom" />
+<temperment value="24" order="Cunning" chaos="Deceit" />
+<temperment value="28" order="Dignity" chaos="Melancholy" />
+<temperment value="32" order="Diplomacy" chaos="Hypocrisy" />
+<temperment value="36" order="Duty" chaos="Fatalism" />
+<temperment value="40" order="Enlightenment" chaos="Detachment" />
+<temperment value="44" order="Ferocity" chaos="Cruelty" />
+<temperment value="48" order="Fervence" chaos="Fanaticism" />
+<temperment value="52" order="Gentility" chaos="Cowardice" />
+<temperment value="56" order="Gravitas" chaos="Vanity" />
+<temperment value="60" order="Heroism" chaos="Mayhem" />
+<temperment value="64" order="Humility" chaos="Pity" />
+<temperment value="68" order="Impiety" chaos="Heresy" />
+<temperment value="72" order="Independence" chaos="Rebellion" />
+<temperment value="76" order="Mystery" chaos="Exclusion" />
+<temperment value="80" order="Pride" chaos="Arrogance" />
+<temperment value="84" order="Romanticism" chaos="Lechery" />
+<temperment value="88" order="Skepticism" chaos="Cynicism" />
+<temperment value="92" order="Sophistication" chaos="Gluttony" />
+<temperment value="96" order="Wisdom" chaos="Vehemence" />
+<temperment value="100" order="Wit" chaos="Rancor" />
+    </temperments>

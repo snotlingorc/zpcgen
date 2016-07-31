@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<Drawbacks>
+<Drawback value="10" type="Bastard-born" />
+<Drawback value="20" type="Branded" />
+<Drawback value="30" type="Connoisseur" />
+<Drawback value="40" type="Cursed" />
+<Drawback value="50" type="Deaf" />
+<Drawback value="60" type="Debtor" />
+<Drawback value="70" type="Eunuch" />
+<Drawback value="80" type="Forbidden Knowledge" />
+<Drawback value="90" type="Nemesis" />
+<Drawback value="100" type="Weak Lungs" />
+</Drawbacks>

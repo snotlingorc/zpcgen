@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<Ages>
+<age value="25" name="Youth" />
+<age value="75" name="Adulthood" />
+<age value="90" name="Middle-Aged" />
+<age value="100" name="Elderly" />
+</Ages>

@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+<Marks>
+<Mark value="1" name="Abnormally white teeth" Amount="1" Attribute="Fellowship" />
+<Mark value="2" name="Abundance of freckles on face" Amount="1" Attribute="Fellowship" />
+<Mark value="3" name="Acne-scarred face" Amount="-1" Attribute="Willpower" />
+<Mark value="6" name="Asexual appearance" Amount="-1" Attribute="Combat" />
+<Mark value="7" name="Ashen complexion" Amount="1" Attribute="Brawn" />
+<Mark value="8" name="Balding" Amount="1" Attribute="Intelligence" />
+<Mark value="9" name="Beaded mustachio" Amount="1" Attribute="Combat" />
+<Mark value="10" name="Beady eyes" Amount="-1" Attribute="Agility" />
+<Mark value="11" name="Beauty mark on face" Amount="1" Attribute="Fellowship" />
+<Mark value="12" name="Big ears" Amount="1" Attribute="Perception" />
+<Mark value="13" name="Blood-shot eyes" Amount="-1" Attribute="Perception" />
+<Mark value="14" name="Bow-legged walk" Amount="-1" Attribute="Agility" />
+<Mark value="15" name="Branded with cattle iron" Amount="1" Attribute="Brawn" />
+<Mark value="16" name="Broken nose" Amount="1" Attribute="Combat" />
+<Mark value="17" name="Buck-toothed or snaggletoothed" Amount="-1" Attribute="Fellowship" />
+<Mark value="18" name="Bulging eyes" Amount="-1" Attribute="Willpower" />
+<Mark value="19" name="Burn scars on face and arms" Amount="1" Attribute="Brawn" />
+<Mark value="20" name="Bushy eyebrows" Amount="1" Attribute="Willpower" />
+<Mark value="21" name="Carefully-groomed beard" Amount="1" Attribute="Fellowship" />
+<Mark value="22" name="Cherubic face" Amount="-1" Attribute="Combat" />
+<Mark value="23" name="Clammy hands" Amount="1" Attribute="Willpower" />
+<Mark value="24" name="Claw marks over face" Amount="1" Attribute="Brawn" />
+<Mark value="25" name="Covered in black moles" Amount="-1" Attribute="Fellowship" />
+<Mark value="26" name="Curly red locks of hair" Amount="-1" Attribute="Fellowship" />
+<Mark value="27" name="Devilish goatee" Amount="1" Attribute="Intelligence" />
+<Mark value="28" name="Different colored eyes" Amount="1" Attribute="Perception" />
+<Mark value="29" name="Dimpled cheeks" Amount="-1" Attribute="Brawn" />
+<Mark value="30" name="Drooping eye" Amount="-1" Attribute="Perception" />
+<Mark value="31" name="Dry, flaking skin" Amount="-1" Attribute="Brawn" />
+<Mark value="32" name="Ear half-missing" Amount="-1" Attribute="Perception" />
+<Mark value="33" name="Ebony complexion" Amount="1" Attribute="Agility" />
+<Mark value="34" name="Embarrassing tattoo on face" Amount="1" Attribute="Combat" />
+<Mark value="35" name="Excessive body hair" Amount="1" Attribute="Brawn" />
+<Mark value="36" name="Eye candy" Amount="-1" Attribute="Intelligence" />
+<Mark value="37" name="False finger" Amount="-1" Attribute="Combat" />
+<Mark value="38" name="Farmer's tan" Amount="1" Attribute="Brawn" />
+<Mark value="39" name="Glasgow smile" Amount="1" Attribute="Combat" />
+<Mark value="40" name="Golden locks of hair" Amount="1" Attribute="Fellowship" />
+<Mark value="41" name="Hare lip" Amount="-1" Attribute="Fellowship" />
+<Mark value="42" name="Hooked nose" Amount="1" Attribute="Intelligence" />
+<Mark value="43" name="Horse-faced" Amount="-1" Attribute="Agility" />
+<Mark value="44" name="Humpbacked" Amount="1" Attribute="Brawn" />
+<Mark value="45" name="Incredibly beautiful" Amount="1" Attribute="Fellowship" />
+<Mark value="46" name="Itchy scabies bites" Amount="-1" Attribute="Brawn" />
+<Mark value="47" name="Jaundiced complexion" Amount="-1" Attribute="Brawn" />
+<Mark value="48" name="Lanky hair" Amount="-1" Attribute="Intelligence" />
+<Mark value="49" name="Large and hairy mole" Amount="1" Attribute="Fellowship" />
+<Mark value="50" name="Large nose" Amount="1" Attribute="Perception" />
+<Mark value="51" name="Large red birthmark on arms" Amount="1" Attribute="Fellowship" />
+<Mark value="52" name="Lazy eye" Amount="-1" Attribute="Agility" />
+<Mark value="53" name="Leathery complexion" Amount="1" Attribute="Brawn" />
+<Mark value="54" name="Lichtenburg scar" Amount="1" Attribute="Agility" />
+<Mark value="55" name="Long eyelashes" Amount="1" Attribute="Fellowship" />
+<Mark value="56" name="Long moustache" Amount="1" Attribute="Willpower" />
+<Mark value="57" name="Long sideburns" Amount="1" Attribute="Willpower" />
+<Mark value="58" name="Milky eye" Amount="-1" Attribute="Perception" />
+<Mark value="59" name="Mismatched eye color" Amount="1" Attribute="Combat" />
+<Mark value="60" name="Missing an eyebrow" Amount="-1" Attribute="Perception" />
+<Mark value="61" name="Missing fingers" Amount="-1" Attribute="Perception" />
+<Mark value="62" name="Nervous tic" Amount="1" Attribute="Willpower" />
+<Mark value="63" name="Olive complexion" Amount="1" Attribute="Perception" />
+<Mark value="64" name="Painted beard" Amount="1" Attribute="Brawn" />
+<Mark value="65" name="Pale white complexion" Amount="-1" Attribute="Brawn" />
+<Mark value="66" name="Patch of white hair" Amount="1" Attribute="Intelligence" />
+<Mark value="67" name="Perfect posture" Amount="1" Attribute="Agility" />
+<Mark value="68" name="Perpetual sneer" Amount="1" Attribute="Willpower" />
+<Mark value="69" name="Perpetually deep frown" Amount="-1" Attribute="Agility" />
+<Mark value="70" name="Piercing blue eyes" Amount="1" Attribute="Fellowship" />
+<Mark value="71" name="Pigeon-toed stance" Amount="-1" Attribute="Combat" />
+<Mark value="72" name="Pot belly" Amount="1" Attribute="Brawn" />
+<Mark value="73" name="Pox scars all over body" Amount="1" Attribute="Brawn" />
+<Mark value="74" name="Pronounced brow" Amount="1" Attribute="Combat" />
+<Mark value="75" name="Purple bags beneath eyes" Amount="1" Attribute="Intelligence" />
+<Mark value="76" name="Rancid breath" Amount="-1" Attribute="Fellowship" />
+<Mark value="77" name="Rash of pimples" Amount="-1" Attribute="Fellowship" />
+<Mark value="78" name="Rheumy eyes" Amount="-1" Attribute="Perception" />
+<Mark value="79" name="Rosy, doll-like complexion" Amount="-1" Attribute="Brawn" />
+<Mark value="80" name="Six-fingered hand" Amount="1" Attribute="Agility" />
+<Mark value="81" name="Slouchy posture" Amount="-1" Attribute="Brawn" />
+<Mark value="82" name="Spiked mohawk" Amount="-1" Attribute="Intelligence" />
+<Mark value="83" name="Squinting eyes or false eyepatch" Amount="-1" Attribute="Fellowship" />
+<Mark value="84" name="Steely gaze" Amount="1" Attribute="Perception" />
+<Mark value="85" name="Strong jaw" Amount="1" Attribute="Brawn" />
+<Mark value="86" name="Sunburnt complexion" Amount="1" Attribute="Brawn" />
+<Mark value="87" name="Sunken eyes" Amount="-1" Attribute="Perception" />
+<Mark value="88" name="Tanned, leathery skin" Amount="1" Attribute="Brawn" />
+<Mark value="89" name="Tarred and feathered" Amount="-1" Attribute="Agility" />
+<Mark value="90" name="Terribly crooked teeth" Amount="-1" Attribute="Fellowship" />
+<Mark value="91" name="Vacant expression" Amount="-1" Attribute="Willpower" />
+<Mark value="92" name="Veteran's nose" Amount="1" Attribute="Combat" />
+<Mark value="93" name="Vulgar tattoo" Amount="1" Attribute="Combat" />
+<Mark value="94" name="Weak chin" Amount="-1" Attribute="Combat" />
+<Mark value="95" name="Wears spectacles" Amount="-1" Attribute="Perception" />
+<Mark value="96" name="Webbed hands and feet" Amount="1" Attribute="Agility" />
+<Mark value="97" name="Widow's peak" Amount="1" Attribute="Intelligence" />
+<Mark value="98" name="Wind-chapped cheeks" Amount="1" Attribute="Brawn" />
+<Mark value="99" name="Yellow scum on teeth" Amount="-1" Attribute="Fellowship" />
+<Mark value="100" name="Yellowed fingernails and toenails" Amount="-1" Attribute="Brawn" />
+    </Marks>

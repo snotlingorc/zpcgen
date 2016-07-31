@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<SocialClasses>
+<SocialClass value="25" class="Lowborn" />
+<SocialClass value="50" class="Burgher" />
+<SocialClass value="75" class="Gentry" />
+<SocialClass value="100" class="Aristocracy" />
+</SocialClasses>
