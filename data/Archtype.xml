@@ -1,12 +1,12 @@
 <?xml version="1.0" ?>
 <Archtypes>
 
-<Archtype name="15" value="Academic" />
-<Archtype name="32" value="Commoner" />
-<Archtype name="49" value="Knave" />
-<Archtype name="66" value="Ranger" />
-<Archtype name="83" value="Socialite" />
-<Archtype name="100" value="Warrior" />
+<Archtype id="15">Academic</Archtype>
+<Archtype id="32">Commoner</Archtype>
+<Archtype id="49">Knave</Archtype>
+<Archtype id="66">Ranger</Archtype>
+<Archtype id="83">Socialite</Archtype>
+<Archtype id="100">Warrior</Archtype>
 
 <Academic>
    <Trappings>Fine Clothing</Trappings>
