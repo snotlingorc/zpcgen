@@ -1,0 +1,282 @@
+<Weapon>
+    <Melee>
+        <Name>Bare-handed</Name>
+        <Skill>Simple Melee</Skill>
+        <Load>0</Load>
+        <Handling>One-handed</Handling>
+        <Distance>Engaged</Distance>
+        <Qualities>Pummeling</Qualities>
+        <Qualities>Brawling</Qualities>
+        <Type>Brawling</Type>
+        <Encumbrance>0</Encumbrance>
+        <Value>0</Value>
+        <Cost>0</Cost>
+    </Melee>
+    <Melee>
+        <Name>Blackjack</Name>
+        <Skill>Simple Melee</Skill>
+        <Load>0</Load>
+        <Handling>One-handed</Handling>
+        <Distance>Engaged</Distance>
+        <Qualities>Entagling</Qualities>
+        <Qualities>Pummeling</Qualities>
+        <Type>Brawling</Type>
+        <Encumbrance>1</Encumbrance>
+        <Cost>2ss</Cost>
+    </Melee>
+</Weapon>
+
+
+
+        Bullwhip
+
+        Simple
+
+        Melee 0 One-handed
+
+        Engaged or
+
+        1 yard
+
+        Entangling,
+
+        Ineffective, Reach Crushing 2 5ss
+
+        Cudgel
+
+        Simple
+
+        Melee 0 One-handed Engaged
+
+        Light, Powerful,
+
+        Weak Crushing 1 5ss
+
+        Dirk
+
+        Simple
+
+        Melee 0 One-handed Engaged
+
+        Fast, Finesse, Light,
+
+        Weak Bladed 1 5ss
+
+        Fire-hardened
+
+        spear
+
+        Simple
+
+        Melee 0
+
+        One or two-
+        handed
+
+        Engaged or
+
+        1 yard Reach, Weak Bladed 2 7ss
+
+        Garrote
+
+        Simple
+
+        Melee 0 Two-handed Engaged
+
+        Entangling, Fast,
+
+        Ineffective Brawling 1 2ss
+
+        Improvised hand
+
+        weapon
+
+        Simple
+
+        Melee 0 One-handed Engaged Pummeling Varies 1 -
+
+        Knuckleduster
+
+        Simple
+
+        Melee 0 One-handed Engaged Fast, Pummeling Brawling 1 7ss
+
+        Rapier
+
+        Simple
+
+        Melee 0 One-handed Engaged Fast, Finesse, Weak Bladed 1 5gc
+
+        Shiv
+
+        Simple
+
+        Melee 0 One-handed Engaged Fast, Weak Bladed 1 2ss
+
+        Splitting maul
+
+        Simple
+
+        Melee 0 Two-handed Engaged Slow, Weak Bladed 3 4ss
+
+        Staff
+
+        Simple
+
+        Melee 0
+
+        One or two-
+        handed Engaged
+
+        Adaptable,
+
+        Pummeling Crushing 2 1ss
+
+        Stiletto
+
+        Simple
+
+        Melee 0 One-handed Engaged Fast, Vicious, Weak Bladed 1 1gc
+
+        Threshing flail
+
+        Simple
+
+        Melee 0
+
+        One or two-
+        handed Engaged Adaptable, Weak Crushing 2 1ss
+
+        Woodsman's axe
+
+        Simple
+
+        Melee 0
+
+        One or two-
+        handed Engaged
+
+        Adaptable, Slow,
+
+        Weak Bladed 2 4ss
+
+        Battle axe
+
+        Martial
+
+        Melee 0
+
+        One or two-
+        handed Engaged Adaptable, Slow Bladed 2 2gc
+
+        Court sword
+
+        Martial
+
+        Melee 0 One-handed Engaged Fast, Finesse Bladed 1 7gc
+
+        Estoc
+
+        Martial
+
+        Melee 0
+
+        One or two-
+        handed Engaged Adaptable, Finesse Bladed 2 7gc
+
+        Flanged mace
+
+        Martial
+
+        Melee 0 One-handed Engaged Powerful Crushing 1 5gc
+
+        Main gauche
+
+        Martial
+
+        Melee 0 One-handed Engaged
+
+        Defensive, Finesse,
+
+        Weak Bladed 1 1gc
+
+        Military lance
+
+        Martial
+
+        Melee 0 Two-handed
+
+        Engaged or
+
+        1 yard Reach, Vicious Bladed 3 1gc
+
+        Misericorde
+
+        Martial
+
+        Melee 0 One-handed Engaged Fast, Finesse Bladed 1 2gc
+
+        Morgenstern
+
+        Martial
+
+        Melee 0
+
+        One or two-
+        handed Engaged
+
+        Adaptable,
+
+        Powerful, Vicious Crushing 2 5gc
+
+        Mortuary sword
+
+        Martial
+
+        Melee 0 One-handed Engaged Vicious Bladed 1 10gc
+
+        Pike
+
+        Martial
+
+        Melee 0 Two-handed
+
+        Engaged or
+
+        1 yard Reach Bladed 3 1gc
+
+        Pole cleaver
+
+        Martial
+
+        Melee 0 Two-handed
+
+        Engaged or
+
+        1 yard Reach Bladed 3 4gc
+
+        Sabre
+
+        Martial
+
+        Melee 0 One-handed Engaged Defensive Bladed 1 6gc
+
+        War hammer
+
+        Martial
+
+        Melee 0 Two-handed Engaged Powerful, Slow Crushing 3 5gc
+
+        Zweihänder
+
+        Martial
+
+        Melee 0 Two-handed
+
+        Engaged or
+
+        1 yard
+
+        Punishing, Reach,
+
+        Slow Bladed 3 12gc
